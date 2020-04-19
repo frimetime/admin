@@ -1,0 +1,25 @@
+<?php
+return [
+  'admin'         => 'Admin',
+  'profile'       => 'My Profile',
+  'logout'        => 'Logout',
+  'main'          => 'MAIN',
+  'dashboard'     => 'Dashboard',
+  'users'         => 'Users',
+  'frimes'        => 'Frimes',
+  'companies'     => 'Companies',
+  'manageNow'     => 'Manage Now',
+  'documentation' => 'API Documentation',
+  'about'         => 'About',
+  'searchResult'  => 'Search Result',
+  'themeColor'    => 'Theme Color',
+  'fontSetting'   => 'Font Settings',
+  'setting'       => 'Setting',
+  'lightVersion'  => 'Light Version',
+  'rtlVersion'    => 'RTL Version',
+  'horizontalMenu'=> 'Horizontal Menu',
+  'miniSidebar'   => 'Mini Sidebar',
+  'trafficThisMonth'=> 'Traffic this Month',
+  'serverLoad'    => 'Server Load',
+
+];

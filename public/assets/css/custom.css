@@ -1,0 +1,52 @@
+*{
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.auth-body{
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.9),rgba(0,0,0,1),rgba(0,0,0,1)),url("../../image/backgrounds/bg_3.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: contain;
+
+}
+
+.auth-body .card .body, .card .card-body{
+    background: rgba(0,0,0,0.2);
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.auth-main .lead{
+    font-size: 14px;
+}
+
+#left-sidebar .navbar-brand .logo {
+    width: 30px;
+}
+
+pre{
+    background: #000;
+    color: #aaa;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: "Courier New";
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.light_version pre{
+    background: #16163e;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.toast-message{
+    padding: 5px 0;
+}
+
+.user-account .dropdown .dropdown-menu{
+    left: -56px!important;
+    right: auto;!important;
+}
